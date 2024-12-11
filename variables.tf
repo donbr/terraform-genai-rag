@@ -22,7 +22,7 @@
 variable "project_id" {
   type        = string
   description = "Google Cloud Project ID"
-  default     = "ai4good-444323"
+  default     = "gcp-langserve-chat-416916"
 }
 
 variable "region" {
