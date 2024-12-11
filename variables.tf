@@ -21,7 +21,8 @@
 
 variable "project_id" {
   type        = string
-  description = "ai4good"
+  description = "Google Cloud Project ID"
+  default     = "ai4good-444323"
 }
 
 variable "region" {
